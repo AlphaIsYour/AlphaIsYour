@@ -1,19 +1,5 @@
 ### Hi there, I'm Alpha! 👋
 
-🚀 **Aspiring Tech Innovator | IT Enthusiast | Problem Solver**  
-📍 Based in Lumajang, Indonesia  
-🎓 D3 Information Technology | Brawijaya University  
-
----
-
-### 🔥 About Me
-Hey there! I'm **Alphareno Yanuar Syaputra**, but you can call me **Alpha**. I'm a tech enthusiast with a passion for **software development, AI, and web technologies**. My goal is to create innovative solutions that help people integrate technology into their daily lives efficiently. 
-
-- 🌱 Currently learning **Java, Python, and Web Development**
-- 💡 Interested in **AI, Machine Learning, and Cloud Computing**
-- 🎯 Working on **my portfolio website & IT projects**
-- 🤝 Open for collaboration on **exciting tech projects**
-
 ---
 
 ### 🛠️ Tech Stack
