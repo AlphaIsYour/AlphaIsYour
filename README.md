@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,java,python, javascript,PHP,html,css,tailwind,react,nextjs,svelte" />
-<img src="https://skillicons.dev/icons?i=git,docker,java,python, javascript,php,react,nextjs" />
+<img src="https://skillicons.dev/icons?i=nextjs" />
   </a>
 </p>
 - **Languages:** Java, Python, JavaScript, PHP
