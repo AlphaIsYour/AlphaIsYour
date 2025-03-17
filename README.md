@@ -3,6 +3,11 @@
 ---
 
 ### 🛠️ Tech Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,java,python, javascript,PHP,html,css,tailwind,react,next,svelte" />
+  </a>
+</p>
 - **Languages:** Java, Python, JavaScript, PHP
 - **Frontend:** HTML, CSS, Tailwind, React.js
 - **Backend:** Node.js, Express.js, Laravel (coming soon!)
