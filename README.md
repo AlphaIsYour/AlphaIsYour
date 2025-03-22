@@ -10,11 +10,6 @@
 <img src="https://skillicons.dev/icons?i=tailwind" />
   </a>
 </p>
-- **Languages:** Java, Python, JavaScript, PHP
-- **Frontend:** HTML, CSS, Tailwind, React.js
-- **Backend:** Node.js, Express.js, Laravel (coming soon!)
-- **Database:** MySQL, Firebase
-- **Tools & Platforms:** GitHub, Linux, Docker, VS Code, NetBeans
 
 ---
 
