@@ -25,7 +25,7 @@
 ---
 
 ### 📬 Connect With Me
-- 💼 LinkedIn: [linkedin.com/in/alphareno-yanuar-syaputra](#)
+- 💼 LinkedIn: [https://www.linkedin.com/in/alphareno-yanuar-syaputra-76210328a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](#)
 - 🌐 Website: [alpha.dev](#)
 - 🐦 Twitter: [@yrlpha](#)
 - 📧 Email: [alphrenoorz@mail.com](#)
