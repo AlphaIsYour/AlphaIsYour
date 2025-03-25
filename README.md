@@ -1,4 +1,4 @@
-### Hi there, I'm Alpha! 👋
+### Hi there, I'm Youralpha! 👋
 
 ---
 
