@@ -5,7 +5,7 @@
 ### 🛠️ Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,gcp,java,python" />
+    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,gcp" />
   </a>
 </p>
 <p align="center">
