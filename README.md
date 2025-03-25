@@ -36,7 +36,7 @@
 ---
 
 ### 📬 Connect With Me
-- 💼 LinkedIn: [Alpha..](https://linkedin.com/in/alphareno-yanuar-syaputra-76210328a)
+- 💼 LinkedIn: [Alphareno Ys.](https://linkedin.com/in/alphareno-yanuar-syaputra-76210328a)
 - 🌐 Website: [youralpha.io](https://alpha.dev)
 - 🐦 X/Twitter: [@yrlpha](https://x.com/yrlpha)
 - 📧 Email: alphrenoorz@mail.com
