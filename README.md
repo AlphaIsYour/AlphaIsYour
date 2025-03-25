@@ -8,6 +8,16 @@
     <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,gcp,java,python,javascript,typescript,php,html,css,tailwind,react,nextjs,svelte,nodejs,express,mongodb,mysql,postgres,redis,graphql,discord,vscode" />
   </a>
 </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,php,html,css,tailwind,react,nextjs,svelte,nodejs,express,mongodb" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,graphql,discord,vscode" />
+  </a>
+</p>
 
 ---
 
