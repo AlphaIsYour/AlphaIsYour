@@ -28,10 +28,12 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlphaIsYour&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaIsYour&layout=compact&theme=radical" />
-  <img src="https://streak-stats.demolab.com/?user=AlphaIsYour&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlphaIsYour&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaIsYour&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <br />
+  <img src="https://streak-stats.demolab.com/?user=AlphaIsYour&theme=radical" alt="GitHub Streak" width="98%" />
 </div>
+
 
 ---
 
