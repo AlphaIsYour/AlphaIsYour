@@ -29,13 +29,18 @@
 ### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlphaIsYour&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <br />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaIsYour&layout=compact&theme=radical" alt="Top Languages" width="48%" />
   <br />
-  <img src="https://streak-stats.demolab.com/?user=AlphaIsYour&theme=radical" alt="GitHub Streak" width="98%" />
 </div>
 
 
 ---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/pa0dwxL1PinsDeIaQB/giphy.gif?cid=ecf05e47w5x4x4qqhkggpzn2oy4e7piz1fw1l6hfgiy9ieh1&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Fun GIF" width="50%" style="margin-top: 15px; border-radius: 10px;" />
+</div>
 
 ### 📬 Connect With Me
 - 💼 LinkedIn: [Alphareno Ys.](https://linkedin.com/in/alphareno-yanuar-syaputra-76210328a)
