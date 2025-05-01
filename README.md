@@ -2,8 +2,17 @@
 
 ---
 
+<div style="display: grid; grid-template-columns: 200px auto; gap: 20px; align-items: center;">
+  <img src="/img/yora2.png" alt="Foto Yora" height="375" /><img src="/img/yora2.png" alt="Foto Yora" height="375" /><img src="/img/yora2.png" alt="Foto Yora" height="375" /><img src="/img/yora.png" alt="Foto Yora" height="375" />
+</div>
+</br>
+<div>
+  </br>
+</div>
+</br>
+
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/5k8afw.png"  />
+  <img height="300" src="https://i.imgflip.com/5k8afw.png"  />
 </div>
 
 ###
