@@ -3,7 +3,7 @@
 ---
 
 <div style=" gap: 10px; align-items: center;">
-  <img src="/img/yora4.png" alt="Foto Yora" height="225" /><img src="/img/yora1.png" alt="Foto Yora" height="215"/><img src="/img/yora2.png" alt="Foto Yora" height="235" /><img src="/img/yora5.png" alt="Foto Yora" height="225" />
+  <img src="/img/yora4.png" alt="Foto Yora" height="215" /><img src="/img/yora1.png" alt="Foto Yora" height="215"/><img src="/img/yora2.png" alt="Foto Yora" height="235" /><img src="/img/yora5.png" alt="Foto Yora" height="225" />
 </div>
 </br>
 <div>
