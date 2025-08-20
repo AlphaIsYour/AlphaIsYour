@@ -1,15 +1,6 @@
-### Hi there, I'm Youralpha! 👋
+### Yo homie, welcome to my hood 👋
 
 ---
-
-<div style=" gap: 10px; align-items: center;">
-  <img src="/img/yora4.png" alt="Foto Yora" height="245" /><img src="/img/yora2.png" alt="Foto Yora" height="265" /><img src="/img/yora1.png" alt="Foto Yora" height="245"/><img src="/img/yora6.png" alt="Foto Yora" height="235" />
-</div>
-</br>
-<div>
-  </br>
-</div>
-</br>
 
 <div align="center">
   <img height="300" src="https://i.imgflip.com/5k8afw.png"  />
