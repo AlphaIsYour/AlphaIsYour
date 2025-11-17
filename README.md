@@ -34,9 +34,9 @@
 </br>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/ofKKbAiVczQAAAAC/gojo-gojo-saotoru.gif" alt="gojo" height="195" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alphaisyour" alt="streak" height="200" />
-  <img src="https://media1.tenor.com/m/ofKKbAiVczQAAAAC/gojo-gojo-saotoru.gif" alt="gojo" height="195" />
+  <img src="https://media1.tenor.com/m/ofKKbAiVczQAAAAC/gojo-gojo-saotoru.gif" alt="gojo" height="135" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alphaisyour" alt="streak" height="140" />
+  <img src="https://media1.tenor.com/m/ofKKbAiVczQAAAAC/gojo-gojo-saotoru.gif" alt="gojo" height="135" />
   
 </p>
 
