@@ -62,9 +62,3 @@
 </p>
 
 </br>
-
-<p align="center">
-  <a href="https://ko-fi.com/youralpha">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" />
-  </a>
-</p>
